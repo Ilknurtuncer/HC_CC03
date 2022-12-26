@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*/ -------CSS sabit başlangıç-----/*/
+body{
+    background-color: #E8D6D0;
+     /* height: 100vh; */
+  
+}
+p{
+    color: blue;
+   font-size: medium;
+   overflow: hidden;
+    margin-top: 15%;
+    padding: 20px;
+  
+}
+
+
+
+div{
+    background-color: #DC6C5E;
+    border: 4px solid black;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px black;
+    /* width: 1000px;
+    height: 600px;
+    margin: auto;
+    margin-top: 200px; */
+
+}
+img{
+    border-radius: 10rem;
+    border: 3px solid black;
+  
+    
+}
+/*/ ------ CSS sabit bitiş ----*/
+
+
+
+
+/*/ -----1. Yöntem başlangıç -----*/
+/*? margin, padding, whith, height */
+/** img div'in içinde */
+
+div{
+    width: 90vh;
+    height: 60vh;
+    margin: auto;
+    margin-top: 20vh;
+    text-align: center;
+}
+img{
+    width: 300px;
+    margin-top: -150px;
+    
+}
+/*/ -----1. Yöntem başlangıç -----*/"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
